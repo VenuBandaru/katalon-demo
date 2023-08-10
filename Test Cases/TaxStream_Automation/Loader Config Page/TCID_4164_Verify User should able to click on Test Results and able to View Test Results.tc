@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4164_Verify User should able to click on Test Results and able to View Test Results</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2606eb54-a4a8-48a7-940b-9dc72227ae4b</testCaseGuid>
+</TestCaseEntity>

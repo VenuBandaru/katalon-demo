@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4155_Verify User should able to view Column Maps button above to grid view</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bba582ea-6219-4470-9fc0-b97addd7a890</testCaseGuid>
+</TestCaseEntity>

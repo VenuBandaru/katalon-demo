@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3009_Verify add a screen to update table ptxtech.load_map_stg_table_column</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5c63a17-bf37-44b7-82c2-96b33623d52f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3242_Load Map Setup to be used in auto validation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8da69de-f708-4bdf-bc6f-676e3c704cf2</testCaseGuid>
+   <variable>
+      <defaultValue>'Georgia'</defaultValue>
+      <description></description>
+      <id>8bff5c85-bc31-4235-a2a3-a4b00bbb6e56</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Load Map'</defaultValue>
+      <description></description>
+      <id>db590eac-d133-414d-a8ae-8d72c60504ac</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

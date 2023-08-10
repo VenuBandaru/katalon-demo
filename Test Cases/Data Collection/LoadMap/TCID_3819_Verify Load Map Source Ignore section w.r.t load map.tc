@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3819_Verify Load Map Source Ignore section w.r.t load map</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56d57876-654d-451c-af33-436bef221606</testCaseGuid>
+   <variable>
+      <defaultValue>'Georgia'</defaultValue>
+      <description></description>
+      <id>d6f4858c-efbb-4db2-8abc-7a903490ce3a</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'WinGAP (DBF)'</defaultValue>
+      <description></description>
+      <id>b682f699-bcfb-4691-83ab-b60675a74b89</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_5110_Verify Custom View Lists accepts the duplicates names for Views</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12dd67af-90a0-4aa7-90af-48234cf8e2c1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>261117bf-7be5-4539-a9e8-a16abee9a0af</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>71c93dc1-83d0-4f54-a0d8-aa17e22c36f7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f938e4c9-5524-46f4-b7b3-c1cfc3115c8b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HOME'</defaultValue>
+      <description></description>
+      <id>261117bf-7be5-4539-a9e8-a16abee9a0af</id>
+      <masked>false</masked>
+      <name>Header_Home</name>
+   </variable>
+   <variable>
+      <defaultValue>'Georgia'</defaultValue>
+      <description></description>
+      <id>71c93dc1-83d0-4f54-a0d8-aa17e22c36f7</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Load Map'</defaultValue>
+      <description></description>
+      <id>f938e4c9-5524-46f4-b7b3-c1cfc3115c8b</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

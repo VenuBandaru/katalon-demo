@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_2940_Verify All Open generic options added to Task Status drop down field on Data Task Dates page on Sideways</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8a2b389-271d-49c3-8e32-4f0f2162eb2a</testCaseGuid>
+</TestCaseEntity>

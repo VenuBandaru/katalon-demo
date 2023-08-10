@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_2448_Verify from the Data Task List where two new task statuses used to further classify according to where their source is in the staging process</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a42811d1-927d-4d1e-9276-d413bb16efdd</testCaseGuid>
+</TestCaseEntity>

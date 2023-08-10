@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1128_Verify on launching the application landing page should be Dashboard page</name>
+   <tag>Dashboard Module</tag>
+   <comment></comment>
+   <testCaseGuid>6f4a69e8-44c9-4c8f-89ad-288f48dc57bf</testCaseGuid>
+</TestCaseEntity>

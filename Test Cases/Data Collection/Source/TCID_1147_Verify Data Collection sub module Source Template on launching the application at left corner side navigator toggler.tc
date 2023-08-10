@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1147_Verify Data Collection sub module Source Template on launching the application at left corner side navigator toggler</name>
+   <tag>Data Collections - Source Template</tag>
+   <comment></comment>
+   <testCaseGuid>659b8a27-7830-4822-905d-28b0c9936ce6</testCaseGuid>
+</TestCaseEntity>

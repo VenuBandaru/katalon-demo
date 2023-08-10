@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4144_Verify User can view Copy value is clickable while clicking to 3 dotted drop down button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>981dd671-4a64-40aa-bd21-6702cd738d71</testCaseGuid>
+</TestCaseEntity>

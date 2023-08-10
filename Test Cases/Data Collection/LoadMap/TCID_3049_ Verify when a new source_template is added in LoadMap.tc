@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3049_ Verify when a new source_template is added in LoadMap</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59d953c4-f8fd-4ab4-b81e-bc8e8e5def5b</testCaseGuid>
+   <variable>
+      <defaultValue>'Texas'</defaultValue>
+      <description></description>
+      <id>96ba3719-6337-4b27-b9eb-aac3396c774a</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'QA_Test1'</defaultValue>
+      <description></description>
+      <id>b59424a6-30e9-4249-87cc-874596afdc22</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

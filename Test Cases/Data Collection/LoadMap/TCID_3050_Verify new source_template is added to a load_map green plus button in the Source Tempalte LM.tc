@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3050_Verify new source_template is added to a load_map green plus button in the Source Tempalte LM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f689ab9-fdda-463e-89f5-7a48ebba6160</testCaseGuid>
+   <variable>
+      <defaultValue>'Report Format (Texas)'</defaultValue>
+      <description></description>
+      <id>c87e6951-2680-473b-a93a-027ee233b68e</id>
+      <masked>false</masked>
+      <name>SourceTemplate</name>
+   </variable>
+   <variable>
+      <defaultValue>'Texas'</defaultValue>
+      <description></description>
+      <id>bc357eb8-25ac-4bee-b9a2-b3667791cd82</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'QA_Test1'</defaultValue>
+      <description></description>
+      <id>85206c91-73f4-4b77-9450-73e80bd28855</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

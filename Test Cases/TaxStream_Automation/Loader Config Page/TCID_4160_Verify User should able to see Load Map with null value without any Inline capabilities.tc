@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4160_Verify User should able to see Load Map with null value without any Inline capabilities</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71c6286a-8821-421e-8c40-ffe762eb1172</testCaseGuid>
+</TestCaseEntity>

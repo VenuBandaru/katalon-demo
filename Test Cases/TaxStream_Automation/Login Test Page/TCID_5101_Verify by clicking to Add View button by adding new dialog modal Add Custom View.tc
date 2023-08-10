@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_5101_Verify by clicking to Add View button by adding new dialog modal Add Custom View</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6e53a8d-164d-4b20-93c4-a059caef7b95</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e2b8f1ee-1002-4ca4-a5d2-fb6074daf622</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HOME'</defaultValue>
+      <description></description>
+      <id>e2b8f1ee-1002-4ca4-a5d2-fb6074daf622</id>
+      <masked>false</masked>
+      <name>Header_Home</name>
+   </variable>
+</TestCaseEntity>

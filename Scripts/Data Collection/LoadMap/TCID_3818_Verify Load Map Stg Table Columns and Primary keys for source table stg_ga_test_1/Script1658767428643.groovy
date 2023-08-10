@@ -1,0 +1,109 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.callTestCase(findTestCase('Login Page/LoginTestPage'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/DataCollection_Module'), 10)
+
+WebUI.click(findTestObject('7. Data Collection/DataCollection_Module'))
+
+WebUI.waitForElementPresent(findTestObject('7. Data Collection/Sub_LoadMap'), 15)
+
+WebUI.click(findTestObject('7. Data Collection/Sub_LoadMap'))
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/LM_Label_State'), 10)
+
+WebUI.waitForElementPresent(findTestObject('7. Data Collection/LM_dd_State'), 12)
+
+WebUI.selectOptionByLabel(findTestObject('7. Data Collection/LM_dd_State'), StateName, false)
+
+WebUI.verifyElementPresent(findTestObject('1. Login Page/PtxTech_Logo'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Sec_LoadMap_Heading'), 12)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/LM_Label_LoadMap'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/LM_dd_LoadMap'), 12)
+
+WebUI.selectOptionByLabel(findTestObject('7. Data Collection/LM_dd_LoadMap'), LoadMapName, false)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/LM_btn_Submit'), 12)
+
+WebUI.click(findTestObject('7. Data Collection/LM_btn_Submit'))
+
+WebUI.waitForElementPresent(findTestObject('7. Data Collection/Sec_SourceTemplateTable_Heading'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/LM_btn_SaveAll'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/LM_btn_AddNewLoadMap'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Label_VerifyEnabled'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Checkbox_VerifyEnabled'), 10)
+
+WebUI.verifyElementClickable(findTestObject('7. Data Collection/Checkbox_VerifyEnabled'))
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Secheading_LoadMapSourceIgnore'), 0)
+
+WebUI.verifyElementVisible(findTestObject('7. Data Collection/Secheading_LoadMapStageTable'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Label_Stg_Table_Name'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Label_File_Name_Regex'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Label_Juris_Column'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Label_Year_COlumn'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Label_Prior_Check'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Source/Stg_TableName_Rec1_Foldbook_Icon'), 10)
+
+WebUI.doubleClick(findTestObject('7. Data Collection/Source/Stg_TableName_Rec1_Foldbook_Icon'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Source/LoadMapStgTableColumnfor_stg_ga_test_1'), 0)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Source/LoadMapStg_ga_Test_1_Messagetext'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Source/LoadMap_Stg_ga_Test_1_Sync_btn'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Source/stg_ga_Test_1_Columnheading'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Source/stg_ga_Test_1_PrimaryKey_Column'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Source/Parcelid_Column'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Source/ParcelId_Checkbox_Checked'), 10)
+
+WebUI.verifyElementClickable(findTestObject('7. Data Collection/Source/ParcelId_Checkbox_Checked'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Source/year_Column'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Source/year_checkboxchecked'), 10)
+
+WebUI.verifyElementClickable(findTestObject('7. Data Collection/Source/year_checkboxchecked'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Source/stg_ga_Table_Test_1_btnCancel'), 10)
+
+WebUI.verifyElementPresent(findTestObject('7. Data Collection/Source/stg_ga_Table_Test_1_btnSubmit'), 10)
+
+WebUI.click(findTestObject('7. Data Collection/Source/stg_ga_Table_Test_1_btnCancel'))
+
+WebUI.closeBrowser()
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3003_Verify If user adds a new source template with new table(s) this table name will be added to the load_map_stg_table section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e149c6cd-bbca-407c-bf80-93d7063b32a5</testCaseGuid>
+</TestCaseEntity>

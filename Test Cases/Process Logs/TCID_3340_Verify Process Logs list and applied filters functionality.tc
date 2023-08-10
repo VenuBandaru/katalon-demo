@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3340_Verify Process Logs list and applied filters functionality</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b2b838a-2ea6-4b58-9b69-e878ebab11f8</testCaseGuid>
+</TestCaseEntity>

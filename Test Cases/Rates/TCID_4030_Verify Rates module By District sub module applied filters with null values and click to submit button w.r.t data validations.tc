@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4030_Verify Rates module By District sub module applied filters with null values and click to submit button w.r.t data validations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98bcc57d-b570-4936-81d3-bc4cfbce85f7</testCaseGuid>
+</TestCaseEntity>

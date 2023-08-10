@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4140_Verify on Loader Config page, where user can view empty loader configuration, no target batches are defined yet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38b6660e-bcef-40d0-a747-7e499eafd903</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7f515ee3-c4e0-44c1-b205-70281e09817d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb36636a-a5cc-4729-ba7f-ee8fb9d5de9a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c90c9bc1-74b2-4fd6-ba33-3b50a7c44f97</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f510473a-2fb8-4de4-90c9-edd8c878d959</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HOME'</defaultValue>
+      <description></description>
+      <id>7f515ee3-c4e0-44c1-b205-70281e09817d</id>
+      <masked>false</masked>
+      <name>Header_Home</name>
+   </variable>
+   <variable>
+      <defaultValue>'LOADERCONFIGLIST'</defaultValue>
+      <description></description>
+      <id>fb36636a-a5cc-4729-ba7f-ee8fb9d5de9a</id>
+      <masked>false</masked>
+      <name>Header_LoaderConfigList</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tax Stream'</defaultValue>
+      <description></description>
+      <id>c90c9bc1-74b2-4fd6-ba33-3b50a7c44f97</id>
+      <masked>false</masked>
+      <name>Header_TaxStream</name>
+   </variable>
+   <variable>
+      <defaultValue>'Empty Loader Configuration. No target batches have been defined yet.'</defaultValue>
+      <description></description>
+      <id>f510473a-2fb8-4de4-90c9-edd8c878d959</id>
+      <masked>false</masked>
+      <name>EmptyLoaderConfiguration</name>
+   </variable>
+</TestCaseEntity>

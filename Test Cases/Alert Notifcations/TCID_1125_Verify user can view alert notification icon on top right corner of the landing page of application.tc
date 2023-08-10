@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1125_Verify user can view alert notification icon on top right corner of the landing page of application</name>
+   <tag>Alert Notifications</tag>
+   <comment></comment>
+   <testCaseGuid>94073542-6cb4-41ba-8e90-268ab614d5c9</testCaseGuid>
+</TestCaseEntity>

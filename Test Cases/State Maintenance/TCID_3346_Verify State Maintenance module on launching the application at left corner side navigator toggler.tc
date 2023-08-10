@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3346_Verify State Maintenance module on launching the application at left corner side navigator toggler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5155553b-7c49-4d94-8568-e125773d1baf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginTestPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b481b0b-8f09-4a1d-80ff-3eb14c0c0e20</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f15f1260-1517-4955-87f3-a09c8040ceb7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://localhost:4500/tax-stream/loaderconfig/?loadMapId=3'</defaultValue>
+      <description></description>
+      <id>f15f1260-1517-4955-87f3-a09c8040ceb7</id>
+      <masked>false</masked>
+      <name>TESTURL</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4474_Verify by provide any Year (2022) and select Rollover null and check for Request Type is greyed out</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcf6d4d6-0578-4228-9c1f-ee4c969e3208</testCaseGuid>
+</TestCaseEntity>

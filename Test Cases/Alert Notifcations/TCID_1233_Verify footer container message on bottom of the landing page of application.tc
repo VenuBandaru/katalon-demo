@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1233_Verify footer container message on bottom of the landing page of application</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>033e78b3-41aa-46c1-b48d-a8c22b1b0f19</testCaseGuid>
+</TestCaseEntity>

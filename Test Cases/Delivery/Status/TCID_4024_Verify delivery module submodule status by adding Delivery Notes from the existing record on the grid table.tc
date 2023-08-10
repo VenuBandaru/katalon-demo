@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4024_Verify delivery module submodule status by adding Delivery Notes from the existing record on the grid table</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b0d9d6e-c4d3-4fd7-8688-04df6c774d55</testCaseGuid>
+</TestCaseEntity>

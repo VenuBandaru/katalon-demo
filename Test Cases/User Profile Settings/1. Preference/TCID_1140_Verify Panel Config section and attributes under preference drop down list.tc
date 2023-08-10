@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1140_Verify Panel Config section and attributes under preference drop down list</name>
+   <tag>User Profile Settings -> Preference</tag>
+   <comment></comment>
+   <testCaseGuid>d6de5b1b-7786-4041-877f-e8a111ed710a</testCaseGuid>
+</TestCaseEntity>

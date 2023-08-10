@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1295_Verify for collection method Web Scrape on top of the Task Detail List page user cannot view Source Template and Load Map links</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3fc8de4-2428-4e29-8f90-69f3a19a388c</testCaseGuid>
+</TestCaseEntity>

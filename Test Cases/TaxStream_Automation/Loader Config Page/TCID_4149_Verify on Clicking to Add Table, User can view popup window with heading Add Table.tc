@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4149_Verify on Clicking to Add Table, User can view popup window with heading Add Table</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2377108a-b6c7-45d8-bd9a-93eaca7f36dc</testCaseGuid>
+</TestCaseEntity>

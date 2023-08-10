@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1283_Click on Data Task module and verify Data Task applied filter section attributes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcb247a7-10ea-4e74-ae53-944e294c076b</testCaseGuid>
+</TestCaseEntity>

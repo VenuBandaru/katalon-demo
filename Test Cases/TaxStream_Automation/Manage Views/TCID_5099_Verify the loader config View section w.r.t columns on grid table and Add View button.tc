@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_5099_Verify the loader config View section w.r.t columns on grid table and Add View button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88f3432c-5afc-4153-8f78-fca9cc623a25</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>76cfd1a9-23be-4548-ac25-aaac52745ca2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1b6bcf99-3a22-4144-a7e3-ed87b14a9121</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1fb5f1d7-f15e-44a3-b446-4728ab04fe98</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HOME'</defaultValue>
+      <description></description>
+      <id>76cfd1a9-23be-4548-ac25-aaac52745ca2</id>
+      <masked>false</masked>
+      <name>Header_Home</name>
+   </variable>
+   <variable>
+      <defaultValue>'Georgia'</defaultValue>
+      <description></description>
+      <id>1b6bcf99-3a22-4144-a7e3-ed87b14a9121</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Load Map'</defaultValue>
+      <description></description>
+      <id>1fb5f1d7-f15e-44a3-b446-4728ab04fe98</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

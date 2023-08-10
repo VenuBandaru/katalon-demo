@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_5098_Click to Manage View button and verify loading custom Views list popup is displaying on loader config page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e93d18f-3745-4d32-bcc7-a8ce22cbc275</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39c9af91-97d5-456a-a7b5-228565585769</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3946dd6b-a058-4e6e-8b9c-b12b6d43050d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ed35b79-86f5-451d-9ad9-9105acc349b9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HOME'</defaultValue>
+      <description></description>
+      <id>39c9af91-97d5-456a-a7b5-228565585769</id>
+      <masked>false</masked>
+      <name>Header_Home</name>
+   </variable>
+   <variable>
+      <defaultValue>'Georgia'</defaultValue>
+      <description></description>
+      <id>3946dd6b-a058-4e6e-8b9c-b12b6d43050d</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Load Map'</defaultValue>
+      <description></description>
+      <id>5ed35b79-86f5-451d-9ad9-9105acc349b9</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3977_Verify required fields while adding Assessor task w.r.t Data Task module</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2de8dc0f-2e60-40ec-9b19-827df71a5887</testCaseGuid>
+</TestCaseEntity>

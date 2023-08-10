@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_6429_Verify Sideways for Supporting longer file names for source files names for data tasks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b570e69d-6a5b-4c6f-bb37-5fbd18ba8211</testCaseGuid>
+   <variable>
+      <defaultValue>'TYP TXT (MN 2 tables + Utility) (2022)'</defaultValue>
+      <description></description>
+      <id>3a0e77b2-764f-42a9-9664-40d53ea7d670</id>
+      <masked>false</masked>
+      <name>template</name>
+   </variable>
+   <variable>
+      <defaultValue>'Data Request - Email'</defaultValue>
+      <description></description>
+      <id>cb905366-f26b-455d-972d-33fe5fc3650d</id>
+      <masked>false</masked>
+      <name>Sourceorigin</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_tx_typ_utility'</defaultValue>
+      <description></description>
+      <id>cb6b594a-eb3d-451e-8725-3d6f72a8c69c</id>
+      <masked>false</masked>
+      <name>tablename1</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_tx_typ_mineral_rrc'</defaultValue>
+      <description></description>
+      <id>2dc88ec2-b55a-47bd-b564-f99de3d0506a</id>
+      <masked>false</masked>
+      <name>tablename2</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_tx_typ_mineral'</defaultValue>
+      <description></description>
+      <id>ed62cfab-0b87-421b-8047-84f89baf9edc</id>
+      <masked>false</masked>
+      <name>tablename3</name>
+   </variable>
+</TestCaseEntity>

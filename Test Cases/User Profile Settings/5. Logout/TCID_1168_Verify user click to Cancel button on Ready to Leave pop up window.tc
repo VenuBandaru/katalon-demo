@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1168_Verify user click to Cancel button on Ready to Leave pop up window</name>
+   <tag>User Profile Settings -> Logout</tag>
+   <comment></comment>
+   <testCaseGuid>8bcbb97a-e3cd-4e9a-8752-f3af94434120</testCaseGuid>
+</TestCaseEntity>

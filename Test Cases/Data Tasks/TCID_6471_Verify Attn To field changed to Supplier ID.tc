@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_6471_Verify Attn To field changed to Supplier ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20a33e2c-b0c8-4c36-b847-792d5a11c6a4</testCaseGuid>
+</TestCaseEntity>

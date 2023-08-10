@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3347_Verify States and it attributes tabs like Task Setup, Collector Payee Setup, Rollover</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1c132ab-c730-4775-83f7-b9aceba916ea</testCaseGuid>
+</TestCaseEntity>

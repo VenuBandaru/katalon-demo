@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3333_Verify 0 source check on previous record count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e5bf225-7d0a-46e8-9c17-0d63112c92c1</testCaseGuid>
+   <variable>
+      <defaultValue>'Test Source Template'</defaultValue>
+      <description></description>
+      <id>88ae157b-9b3d-4df5-9400-4e9707cbc8f3</id>
+      <masked>false</masked>
+      <name>template</name>
+   </variable>
+   <variable>
+      <defaultValue>'Data Request - Email'</defaultValue>
+      <description></description>
+      <id>97ba9677-1ce0-448e-9160-788c79e78323</id>
+      <masked>false</masked>
+      <name>Sourceorigin</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_1'</defaultValue>
+      <description></description>
+      <id>b65f9c6b-d529-45c6-9156-4cd9c05bd333</id>
+      <masked>false</masked>
+      <name>tablename1</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_2'</defaultValue>
+      <description></description>
+      <id>a141133f-7160-47ec-9372-1b2abb9630ef</id>
+      <masked>false</masked>
+      <name>tablename2</name>
+   </variable>
+</TestCaseEntity>

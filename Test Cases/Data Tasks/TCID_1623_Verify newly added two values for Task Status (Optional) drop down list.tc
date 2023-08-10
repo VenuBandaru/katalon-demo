@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1623_Verify newly added two values for Task Status (Optional) drop down list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc0c6fb0-82ed-4de4-b588-fa205a69864a</testCaseGuid>
+</TestCaseEntity>

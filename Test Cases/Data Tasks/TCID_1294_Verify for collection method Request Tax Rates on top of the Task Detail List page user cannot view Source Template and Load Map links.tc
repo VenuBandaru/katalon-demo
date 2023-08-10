@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1294_Verify for collection method Request Tax Rates on top of the Task Detail List page user cannot view Source Template and Load Map links</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a172f6e-fe87-4858-b1b3-dcede0984928</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1160_Verify Dataset Setup module on launching the application at left corner side navigator toggler</name>
+   <tag>Dataset Setup Module</tag>
+   <comment></comment>
+   <testCaseGuid>e1d22a8e-e034-49b6-a928-a9a721fd84f3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user is able to see the Authentication page</description>
+   <name>TCID_1097_Verify that user is able to see the Authentication page</name>
+   <tag>Authentication Page</tag>
+   <comment></comment>
+   <testCaseGuid>80836216-a0b7-458d-8875-17d9bee01e79</testCaseGuid>
+</TestCaseEntity>

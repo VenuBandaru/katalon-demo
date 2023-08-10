@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_2990_Verify newly added Task Statuses in Data Task List</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50d19f76-14d1-46fa-a856-ff5bb21b20ef</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_2607_Verify load map page w.r.t Load Map Stage and columns corresponding to it</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06a2dfbb-fac8-432f-bdb8-2eeeabb1f6c4</testCaseGuid>
+   <variable>
+      <defaultValue>'Texas'</defaultValue>
+      <description></description>
+      <id>909de48d-94cf-4b60-934a-d43ea51898fd</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dallas CAD'</defaultValue>
+      <description></description>
+      <id>88d7f85b-4a60-4924-b8af-d71083c83078</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_2943_Verify Sync button on load map screen for load map stage table parms</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63b2794d-00c6-4fab-a952-fdb3edf88c45</testCaseGuid>
+</TestCaseEntity>

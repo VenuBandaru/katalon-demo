@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3888_Verify Source Template sub module with drop down values null for State and Source Template and click Copy Template button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2334776-2ffe-48b7-aac5-66390baf14ca</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4154_Verify User should able to view Output results in an window, w.r.t all columns and values</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ace61b52-d7c5-4fe4-b01a-db603a2df2bb</testCaseGuid>
+</TestCaseEntity>

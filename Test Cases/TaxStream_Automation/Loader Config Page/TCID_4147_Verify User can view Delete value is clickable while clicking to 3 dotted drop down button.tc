@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4147_Verify User can view Delete value is clickable while clicking to 3 dotted drop down button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>669c7c04-bd56-4488-97dc-945e1b6e84b7</testCaseGuid>
+</TestCaseEntity>

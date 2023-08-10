@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3369_Verify Reports list and applied filters functionality on submitting applied filters columns with results in grid view section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98c1001c-e0b0-4742-bf9d-5f73e1d72084</testCaseGuid>
+</TestCaseEntity>

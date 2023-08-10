@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_2605_Verify the load map page under data collections w.r.t Load map section and drop down columns</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03eef79c-4831-4348-bd20-51c0a6deea1f</testCaseGuid>
+   <variable>
+      <defaultValue>'Texas'</defaultValue>
+      <description></description>
+      <id>e3f1033e-6c49-4d88-b087-503de6582fda</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dallas CAD'</defaultValue>
+      <description></description>
+      <id>82cc69aa-2105-4425-babd-f00bb557bbf7</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

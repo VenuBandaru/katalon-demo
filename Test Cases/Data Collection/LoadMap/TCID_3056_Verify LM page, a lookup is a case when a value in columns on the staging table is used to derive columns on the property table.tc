@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3056_Verify LM page, a lookup is a case when a value in columns on the staging table is used to derive columns on the property table</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76586d77-2e27-4fd6-9bba-2276c2e64dfd</testCaseGuid>
+   <variable>
+      <defaultValue>'Sample Test Notes\r\n'</defaultValue>
+      <description></description>
+      <id>5690fa38-a5a5-4933-82b9-486a002aa92d</id>
+      <masked>false</masked>
+      <name>Notes</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4114_Verify by clicking to button Version History and verify the latest version record in grid table</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3a71d28-6d8b-4e20-8485-e697b55bfdac</testCaseGuid>
+</TestCaseEntity>

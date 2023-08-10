@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1657_Create a child task from the Request Dates and Data Files collection method parent task</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac2de817-4ffa-4373-a2e8-0f61845d7b47</testCaseGuid>
+   <variable>
+      <defaultValue>'Request Dates &amp; Data Files'</defaultValue>
+      <description></description>
+      <id>d74955c0-e4a9-4101-b6d3-bdd3d2fdb53d</id>
+      <masked>false</masked>
+      <name>ddlvalue</name>
+   </variable>
+   <variable>
+      <defaultValue>'Make Inquiry for Dates &amp; Files'</defaultValue>
+      <description></description>
+      <id>d642e76f-ce20-4069-bb99-eebafed3bdd4</id>
+      <masked>false</masked>
+      <name>TaskStatusValue</name>
+   </variable>
+   <variable>
+      <defaultValue>'Do Not Request'</defaultValue>
+      <description></description>
+      <id>8d7cb0cb-a25f-4396-8b09-e3490b051f39</id>
+      <masked>false</masked>
+      <name>ChangeTaskStatus</name>
+   </variable>
+</TestCaseEntity>

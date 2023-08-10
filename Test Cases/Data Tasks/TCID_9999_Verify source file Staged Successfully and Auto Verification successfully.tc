@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_9999_Verify source file Staged Successfully and Auto Verification successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e2da667-2683-4f8f-be3c-e059fac4a3cc</testCaseGuid>
+   <variable>
+      <defaultValue>'Request Dates &amp; Data Files'</defaultValue>
+      <description></description>
+      <id>a8542c63-0a12-4548-9037-3710fe0b319f</id>
+      <masked>false</masked>
+      <name>ddlvalue</name>
+   </variable>
+   <variable>
+      <defaultValue>'TYP TXT (MN 2 tables + Utility) (2022)'</defaultValue>
+      <description></description>
+      <id>4da03857-2be8-433a-9c2d-e34908571927</id>
+      <masked>false</masked>
+      <name>template</name>
+   </variable>
+   <variable>
+      <defaultValue>'Data Request - Email'</defaultValue>
+      <description></description>
+      <id>a3e6f405-062a-457e-80a1-64734bab19ba</id>
+      <masked>false</masked>
+      <name>Sourceorigin</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_tx_typ_utility'</defaultValue>
+      <description></description>
+      <id>53f4ec12-9254-4385-9180-8be0c9a04889</id>
+      <masked>false</masked>
+      <name>tablename1</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_tx_typ_mineral_rrc'</defaultValue>
+      <description></description>
+      <id>7fa9dfff-983a-4c2c-868b-1e06695ebfab</id>
+      <masked>false</masked>
+      <name>tablename2</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_tx_typ_mineral'</defaultValue>
+      <description></description>
+      <id>53c0c80b-6ff4-4f3d-a67a-e5d69e7aeba9</id>
+      <masked>false</masked>
+      <name>tablename3</name>
+   </variable>
+   <variable>
+      <defaultValue>'Texas'</defaultValue>
+      <description></description>
+      <id>4ea1f8a7-6150-429a-8854-b73fd68ac5cf</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'TYP Mineral &amp; Industrial'</defaultValue>
+      <description></description>
+      <id>6ce593e2-a1c1-4d9f-b27f-b30e3c25bd44</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

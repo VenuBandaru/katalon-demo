@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1138_Verify display options section grid under preference drop down list</name>
+   <tag>User Profile Settings -> Preference</tag>
+   <comment></comment>
+   <testCaseGuid>776cf132-7c72-4239-9977-1ba221edf873</testCaseGuid>
+</TestCaseEntity>

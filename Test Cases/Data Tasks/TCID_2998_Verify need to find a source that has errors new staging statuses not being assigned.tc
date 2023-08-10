@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_2998_Verify need to find a source that has errors new staging statuses not being assigned</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3b11b7b-ebfd-4f63-97ae-34badd94404e</testCaseGuid>
+   <variable>
+      <defaultValue>'Request Dates &amp; Data Files'</defaultValue>
+      <description></description>
+      <id>c34caecb-d36f-429e-903c-8ad4131754d1</id>
+      <masked>false</masked>
+      <name>ddlvalue</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Source Template'</defaultValue>
+      <description></description>
+      <id>c5247f67-ad1c-4f5f-9c05-86fb9ea1e594</id>
+      <masked>false</masked>
+      <name>template</name>
+   </variable>
+   <variable>
+      <defaultValue>'Data Request - Email'</defaultValue>
+      <description></description>
+      <id>4b962d76-25a7-497d-9c56-573b87be3fc7</id>
+      <masked>false</masked>
+      <name>Sourceorigin</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_1'</defaultValue>
+      <description></description>
+      <id>bb3e06e7-8a4b-43b1-bc21-ad9381714e7a</id>
+      <masked>false</masked>
+      <name>tablename1</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_2'</defaultValue>
+      <description></description>
+      <id>47d53138-de6f-4de6-a6a9-45dfa3d59a80</id>
+      <masked>false</masked>
+      <name>tablename2</name>
+   </variable>
+</TestCaseEntity>

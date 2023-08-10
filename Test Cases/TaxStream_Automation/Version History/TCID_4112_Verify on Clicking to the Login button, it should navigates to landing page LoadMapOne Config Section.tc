@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4112_Verify on Clicking to the Login button, it should navigates to landing page LoadMapOne Config Section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f6ca08a-c675-4b15-931c-4f75042f7b69</testCaseGuid>
+</TestCaseEntity>

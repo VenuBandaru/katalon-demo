@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1166_Verify Rates sub module By Juris on launching the application at left corner side navigator toggler</name>
+   <tag>Rates -> By Juris</tag>
+   <comment></comment>
+   <testCaseGuid>a076bddf-3a91-42fc-bf09-b51165f2ace6</testCaseGuid>
+</TestCaseEntity>

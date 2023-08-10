@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3030_Verify Auto Verification Sets Task Status upon Correct Verification Errors if there are errors from the auto-verification process</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcd47695-f25a-4f08-be39-6969a3d3761e</testCaseGuid>
+   <variable>
+      <defaultValue>'Request Dates &amp; Data Files'</defaultValue>
+      <description></description>
+      <id>83826d77-dc9f-42de-9de1-719bd30bfde3</id>
+      <masked>false</masked>
+      <name>ddlvalue</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Source Template'</defaultValue>
+      <description></description>
+      <id>4d3f8187-5946-4f28-be97-e186b415ea70</id>
+      <masked>false</masked>
+      <name>template</name>
+   </variable>
+   <variable>
+      <defaultValue>'Data Request - Email'</defaultValue>
+      <description></description>
+      <id>03030b31-2dbc-4ab4-9fb2-06709fedc33a</id>
+      <masked>false</masked>
+      <name>Sourceorigin</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_1'</defaultValue>
+      <description></description>
+      <id>57acde22-68d1-4958-8cbe-34dcf9f3e721</id>
+      <masked>false</masked>
+      <name>tablename1</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_2'</defaultValue>
+      <description></description>
+      <id>f337b942-ce89-4ee5-98e6-6166b9c87af5</id>
+      <masked>false</masked>
+      <name>tablename2</name>
+   </variable>
+</TestCaseEntity>

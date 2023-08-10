@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3956_Verify Auto-Verification Validation w.r.t Multiple Custom Checks</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adf5f07f-6315-4bd2-856f-e9248dfccb11</testCaseGuid>
+   <variable>
+      <defaultValue>'Test Source Template'</defaultValue>
+      <description></description>
+      <id>05ec4339-e324-4681-ad9b-823753ec82f1</id>
+      <masked>false</masked>
+      <name>template</name>
+   </variable>
+   <variable>
+      <defaultValue>'Data Request - Email'</defaultValue>
+      <description></description>
+      <id>0e80734c-4d2a-4320-ab4d-eef3f752c46f</id>
+      <masked>false</masked>
+      <name>Sourceorigin</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_1'</defaultValue>
+      <description></description>
+      <id>72065044-723b-4aab-b774-1d0b6a39b055</id>
+      <masked>false</masked>
+      <name>tablename1</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_2'</defaultValue>
+      <description></description>
+      <id>e6e97f69-a28e-4d35-8fe9-ec09c3945db3</id>
+      <masked>false</masked>
+      <name>tablename2</name>
+   </variable>
+</TestCaseEntity>

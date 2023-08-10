@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>DEV</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Username</description>
+      <initValue>'Ryanco_sel_ptx_dev1'</initValue>
+      <name>UserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password</description>
+      <initValue>'YNwBRRZ16k1JUV3Sm07tmPztyHPhI9Jx'</initValue>
+      <name>EncryptedPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description> DEV Application URL</description>
+      <initValue>'https://sideways-test.ptxtech.com/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://taxstream-qa.ryanco.com/tax-stream/loaderconfig/?loadMapId=31'</initValue>
+      <name>URL_QA</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

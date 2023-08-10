@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1627_Based on parent task in the test environment create child tasks and sources</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ff3c3f6-5810-480e-9552-dfe879a76b3d</testCaseGuid>
+   <variable>
+      <defaultValue>'Request Dates &amp; Data Files'</defaultValue>
+      <description></description>
+      <id>f02da249-1a44-4b27-bd90-fa93ff895553</id>
+      <masked>false</masked>
+      <name>ddlvalue</name>
+   </variable>
+</TestCaseEntity>

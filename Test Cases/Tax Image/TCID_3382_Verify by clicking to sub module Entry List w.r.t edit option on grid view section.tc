@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3382_Verify by clicking to sub module Entry List w.r.t edit option on grid view section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf47740b-8e47-44b7-955a-12de0db9ec76</testCaseGuid>
+</TestCaseEntity>

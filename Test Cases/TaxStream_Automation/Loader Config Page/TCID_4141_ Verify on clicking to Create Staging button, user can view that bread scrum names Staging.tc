@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4141_ Verify on clicking to Create Staging button, user can view that bread scrum names Staging</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1ce6ffd-f6df-4f99-96e6-b215805aa88d</testCaseGuid>
+</TestCaseEntity>

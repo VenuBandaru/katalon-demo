@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCDI_2606_Verify load map page and Source template and buttons</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a00f72f-4829-4219-b5f8-34ed98591009</testCaseGuid>
+   <variable>
+      <defaultValue>'Texas'</defaultValue>
+      <description></description>
+      <id>c8bb657c-8a57-4c8a-a13d-9eb5a348b6ef</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dallas CAD'</defaultValue>
+      <description></description>
+      <id>25ada1ec-94f3-4bd1-81c0-ec79f8dc68a3</id>
+      <masked>false</masked>
+      <name>LMName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a7c3f530-e04f-4bf6-b8a6-8f337ae4e207</id>
+      <masked>false</masked>
+      <name>Empty</name>
+   </variable>
+</TestCaseEntity>

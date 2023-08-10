@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1136_Verify user can view Upload Requests drop down item under profile settings Icon</name>
+   <tag>User Profile Setting -> Upload Requests</tag>
+   <comment></comment>
+   <testCaseGuid>b96e4aab-71c4-46d9-ac00-7f413c954027</testCaseGuid>
+</TestCaseEntity>

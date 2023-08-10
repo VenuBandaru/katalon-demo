@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_2939_Verify Data Task Dates page, then null out the year filter, it makes the year filter becomes empty string instead of None</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f29b7166-48d6-45cd-9286-fae9e996b750</testCaseGuid>
+</TestCaseEntity>

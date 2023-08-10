@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_2992_Verify Task Status Configure Verifications New button to go to the Load Map Configuration page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a519e1bb-daba-4273-a07b-e34df8dd279f</testCaseGuid>
+</TestCaseEntity>

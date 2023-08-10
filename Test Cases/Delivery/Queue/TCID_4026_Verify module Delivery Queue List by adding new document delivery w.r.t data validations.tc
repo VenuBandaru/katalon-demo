@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4026_Verify module Delivery Queue List by adding new document delivery w.r.t data validations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6e00fbb-d84f-464d-8c51-ed45f7bb30f8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4165_Verify User should able to click on Publish button and able to View new window</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4fac70f1-e08f-4c39-aa2f-4964f9618eda</testCaseGuid>
+</TestCaseEntity>

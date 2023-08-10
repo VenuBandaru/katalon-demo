@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_2958_Verify click to New Source button, to create a New Source by adding require field values, upload file and mapping table names</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bfcd1ba-0194-45bc-8e61-8b1e0a24ad07</testCaseGuid>
+   <variable>
+      <defaultValue>'Request Dates &amp; Data Files'</defaultValue>
+      <description></description>
+      <id>0c6051f6-b15b-45e3-8b25-e3642e0f461c</id>
+      <masked>false</masked>
+      <name>ddlvalue</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Source Template'</defaultValue>
+      <description></description>
+      <id>50af3b25-2cfd-4964-b1de-23508c6a49c4</id>
+      <masked>false</masked>
+      <name>template</name>
+   </variable>
+   <variable>
+      <defaultValue>'Data Request - Email'</defaultValue>
+      <description></description>
+      <id>31c8a485-4199-42cd-840f-31fb008752b7</id>
+      <masked>false</masked>
+      <name>Sourceorigin</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_1'</defaultValue>
+      <description></description>
+      <id>c1d8f683-712a-4612-98a9-7958c13ad870</id>
+      <masked>false</masked>
+      <name>tablename1</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_2'</defaultValue>
+      <description></description>
+      <id>0e5069e8-b925-43b2-9542-4ca7036804cc</id>
+      <masked>false</masked>
+      <name>tablename2</name>
+   </variable>
+</TestCaseEntity>

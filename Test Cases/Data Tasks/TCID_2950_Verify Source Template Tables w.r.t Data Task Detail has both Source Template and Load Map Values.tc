@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_2950_Verify Source Template Tables w.r.t Data Task Detail has both Source Template and Load Map Values</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac8ad666-32c1-4d07-a8e2-475b8d5ede25</testCaseGuid>
+</TestCaseEntity>

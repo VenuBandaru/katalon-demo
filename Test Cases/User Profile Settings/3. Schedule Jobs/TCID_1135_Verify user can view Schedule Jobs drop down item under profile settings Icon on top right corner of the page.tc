@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1135_Verify user can view Schedule Jobs drop down item under profile settings Icon on top right corner of the page</name>
+   <tag>User Profile Setting -> Schedule Jobs</tag>
+   <comment></comment>
+   <testCaseGuid>06be3952-44ff-457d-8bb0-3515eccf9f7a</testCaseGuid>
+</TestCaseEntity>

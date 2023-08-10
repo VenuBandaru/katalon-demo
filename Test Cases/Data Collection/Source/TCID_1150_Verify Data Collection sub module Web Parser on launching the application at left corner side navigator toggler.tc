@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1150_Verify Data Collection sub module Web Parser on launching the application at left corner side navigator toggler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2a98779-e17e-41c7-a3a1-97d741fe2f64</testCaseGuid>
+</TestCaseEntity>

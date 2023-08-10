@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1296_Verify for collection method Request Copies of Bills or Notices on top of the Task Detail List page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>159e7298-4eb5-4a9f-adf5-cdc84d442081</testCaseGuid>
+</TestCaseEntity>

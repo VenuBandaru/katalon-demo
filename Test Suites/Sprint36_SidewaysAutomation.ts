@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Sprint36_SidewaysAutomation</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>aa37baad-226a-4153-b863-efa05e21172d</testSuiteGuid>
+   <testCaseLink>
+      <guid>de3a37b0-f902-4cba-b951-3c5546e0f89e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data Tasks/TCID_6429_Verify Sideways for Supporting longer file names for source files names for data tasks</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3a0e77b2-764f-42a9-9664-40d53ea7d670</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cb905366-f26b-455d-972d-33fe5fc3650d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cb6b594a-eb3d-451e-8725-3d6f72a8c69c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2dc88ec2-b55a-47bd-b564-f99de3d0506a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ed62cfab-0b87-421b-8047-84f89baf9edc</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ef42efbb-714b-46a5-9da7-c7a147fc15fc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data Tasks/TCID_6430_On Data Tasks module under Important Task Feilds verify fileds like check box - pay by credit cards and Select Credit Card and Entry Template</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>78d04d72-2cd4-4c5b-8d43-9d8746548f5c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data Tasks/TCID_6428_Verify support updating assessor and collector mailing information from the task details page</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3243b237-bf6e-4600-88aa-20c1ee3a7567</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Data Tasks/TCID_6427_Verify Data Tasks request_type_id 12, 13 14 not working fine as expected</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

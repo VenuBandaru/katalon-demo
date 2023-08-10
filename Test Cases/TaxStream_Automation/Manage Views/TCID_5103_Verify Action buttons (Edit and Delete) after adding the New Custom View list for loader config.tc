@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_5103_Verify Action buttons (Edit and Delete) after adding the New Custom View list for loader config</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f41d728-c074-4821-b86d-1f10b3dcd002</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cbedbdf2-f048-4687-a9f2-2d26f490a16d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>667d8157-927b-493a-afa8-0f4f736403f0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8e0f2e5e-953f-499e-b86a-c85ebb19bf79</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HOME'</defaultValue>
+      <description></description>
+      <id>cbedbdf2-f048-4687-a9f2-2d26f490a16d</id>
+      <masked>false</masked>
+      <name>Header_Home</name>
+   </variable>
+   <variable>
+      <defaultValue>'Georgia'</defaultValue>
+      <description></description>
+      <id>667d8157-927b-493a-afa8-0f4f736403f0</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Load Map'</defaultValue>
+      <description></description>
+      <id>8e0f2e5e-953f-499e-b86a-c85ebb19bf79</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

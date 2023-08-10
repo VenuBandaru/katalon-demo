@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Intergration Sideways to TaxStream</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>578511fb-9009-4a0e-bb02-57a8f43c62d0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>87045cae-a460-4920-b5ac-01708b4d0590</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d83ad585-24fc-42af-813e-54ba0758252a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Georgia'</defaultValue>
+      <description></description>
+      <id>87045cae-a460-4920-b5ac-01708b4d0590</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Load Map'</defaultValue>
+      <description></description>
+      <id>d83ad585-24fc-42af-813e-54ba0758252a</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

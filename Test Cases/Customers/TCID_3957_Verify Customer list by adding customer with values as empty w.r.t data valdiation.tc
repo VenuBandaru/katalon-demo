@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3957_Verify Customer list by adding customer with values as empty w.r.t data valdiation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec74d1ff-5c99-4db1-b1e9-0e116e39fd09</testCaseGuid>
+</TestCaseEntity>

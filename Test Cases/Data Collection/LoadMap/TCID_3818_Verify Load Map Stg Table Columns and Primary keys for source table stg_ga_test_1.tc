@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3818_Verify Load Map Stg Table Columns and Primary keys for source table stg_ga_test_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f43e1980-837e-434d-9911-a1052755a554</testCaseGuid>
+   <variable>
+      <defaultValue>'Georgia'</defaultValue>
+      <description></description>
+      <id>7b8cc649-455e-42f0-9eda-23ac59af83e8</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'WinGAP (DBF)'</defaultValue>
+      <description></description>
+      <id>0f264650-04c4-4650-83ba-561f3fcef306</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

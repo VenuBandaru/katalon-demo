@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4159_Verify User should able to see the Add Column and then new window opens Add Column</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f182aa67-5d28-4e8e-a8c2-7553ccb9ca75</testCaseGuid>
+</TestCaseEntity>

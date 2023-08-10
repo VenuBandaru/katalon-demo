@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1169_Verify user click to Logout button on Ready to Leave pop up window</name>
+   <tag>User Profile Settings -> Logout</tag>
+   <comment></comment>
+   <testCaseGuid>eae04131-bfd7-4e64-ac21-669caa0ff7e0</testCaseGuid>
+</TestCaseEntity>

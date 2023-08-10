@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4472_Verify Swap input order in data task rollover w.r.t State Maintenance</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98167066-eb55-4faa-9c97-cd600c240821</testCaseGuid>
+</TestCaseEntity>

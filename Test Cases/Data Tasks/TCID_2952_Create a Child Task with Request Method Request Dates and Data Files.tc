@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_2952_Create a Child Task with Request Method Request Dates and Data Files</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4dfa2005-2bfb-4704-b313-5443a6c392ce</testCaseGuid>
+   <variable>
+      <defaultValue>'Request Dates &amp; Data Files'</defaultValue>
+      <description></description>
+      <id>4f95e869-963e-417a-b388-bcea47a7898f</id>
+      <masked>false</masked>
+      <name>ddvalue</name>
+   </variable>
+</TestCaseEntity>

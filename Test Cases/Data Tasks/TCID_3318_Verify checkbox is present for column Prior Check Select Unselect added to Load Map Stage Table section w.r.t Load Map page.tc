@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3318_Verify checkbox is present for column Prior Check Select Unselect added to Load Map Stage Table section w.r.t Load Map page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3997f37a-3899-46cb-a0ef-2c9c7d97da76</testCaseGuid>
+   <variable>
+      <defaultValue>'Texas'</defaultValue>
+      <description></description>
+      <id>8b77e3fe-ebdc-4141-b167-322e2a853afa</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dallas CAD'</defaultValue>
+      <description></description>
+      <id>b6860211-05ed-401f-8f29-654f33032453</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

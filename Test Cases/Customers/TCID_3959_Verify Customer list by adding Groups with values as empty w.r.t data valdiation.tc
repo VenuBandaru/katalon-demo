@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3959_Verify Customer list by adding Groups with values as empty w.r.t data valdiation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eaef5c8c-e2b7-4261-bead-b888975c1c71</testCaseGuid>
+</TestCaseEntity>

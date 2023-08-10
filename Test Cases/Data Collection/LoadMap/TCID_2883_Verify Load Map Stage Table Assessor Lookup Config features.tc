@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_2883_Verify Load Map Stage Table Assessor Lookup Config features</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08c94408-22b9-4939-aa94-c1c5fdeea905</testCaseGuid>
+   <variable>
+      <defaultValue>'Texas'</defaultValue>
+      <description></description>
+      <id>4cafc01d-6527-42b6-b931-ef1396061365</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dallas CAD'</defaultValue>
+      <description></description>
+      <id>58faa83d-7a19-424e-8bda-386df6302f78</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

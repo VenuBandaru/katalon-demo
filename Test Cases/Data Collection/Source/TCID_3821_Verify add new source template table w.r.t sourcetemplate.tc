@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3821_Verify add new source template table w.r.t sourcetemplate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6adf7024-01e4-42aa-9eed-5050a4f4691d</testCaseGuid>
+</TestCaseEntity>

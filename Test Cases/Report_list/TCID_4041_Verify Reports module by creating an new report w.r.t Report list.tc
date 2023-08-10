@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4041_Verify Reports module by creating an new report w.r.t Report list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0edbfa46-999a-479f-9b6e-005a4463733c</testCaseGuid>
+</TestCaseEntity>

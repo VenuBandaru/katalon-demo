@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3983_Verify Uncooperative Entity Reason popup window, on providing null value click to submit button and verify the results</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd7a56fa-5a5c-40a8-89f6-6b26603c0554</testCaseGuid>
+</TestCaseEntity>

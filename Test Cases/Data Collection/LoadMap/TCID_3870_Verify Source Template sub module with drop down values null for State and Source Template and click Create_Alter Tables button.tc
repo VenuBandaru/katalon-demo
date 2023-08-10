@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3870_Verify Source Template sub module with drop down values null for State and Source Template and click Create_Alter Tables button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07ab0eda-59ba-4659-b7ad-028fd21e5f37</testCaseGuid>
+</TestCaseEntity>

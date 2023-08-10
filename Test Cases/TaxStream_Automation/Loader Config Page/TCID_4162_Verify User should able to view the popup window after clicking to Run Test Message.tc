@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4162_Verify User should able to view the popup window after clicking to Run Test Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f604741-14b5-47f5-b48b-f8c80ae44d61</testCaseGuid>
+</TestCaseEntity>

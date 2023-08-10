@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4473_Verify by providing an Year and verify the both swapped input dropdown values</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ea2dc35-0e19-45f2-bcc4-f73e9e770ffe</testCaseGuid>
+</TestCaseEntity>

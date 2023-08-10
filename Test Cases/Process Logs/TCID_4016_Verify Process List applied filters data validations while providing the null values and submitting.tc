@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4016_Verify Process List applied filters data validations while providing the null values and submitting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b17cd5e7-ab28-4ab7-ac89-fd61bd6c950b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3561_Verify Auto-Verification Validation - Required Tables Check</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>023d18ba-8bb0-402c-b081-3d842e540fa4</testCaseGuid>
+   <variable>
+      <defaultValue>'Test Source Template'</defaultValue>
+      <description></description>
+      <id>ce7b4dca-5bd4-48f2-8b31-e6731c0f06f9</id>
+      <masked>false</masked>
+      <name>template</name>
+   </variable>
+   <variable>
+      <defaultValue>'Data Request - Email'</defaultValue>
+      <description></description>
+      <id>c88e879b-1645-4727-a99d-c2b816b5a44b</id>
+      <masked>false</masked>
+      <name>Sourceorigin</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_1'</defaultValue>
+      <description></description>
+      <id>3c0543cf-abda-41b2-96d1-de85485bd402</id>
+      <masked>false</masked>
+      <name>tablename1</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_2'</defaultValue>
+      <description></description>
+      <id>b69dbb16-5582-4b83-8f33-c14ac6856936</id>
+      <masked>false</masked>
+      <name>tablename2</name>
+   </variable>
+</TestCaseEntity>

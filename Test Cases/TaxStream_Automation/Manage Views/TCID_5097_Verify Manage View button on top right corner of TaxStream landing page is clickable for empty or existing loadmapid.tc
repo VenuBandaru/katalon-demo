@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_5097_Verify Manage View button on top right corner of TaxStream landing page is clickable for empty or existing loadmapid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2045ce3a-a5e3-4f88-9ce2-059f8d9b21cf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a8ab0376-9db6-44f3-bce2-85c3e156b584</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b0db8c64-d04d-43c6-ae11-acbf9ddfa8ba</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b40c08dd-d2bb-4062-af96-2a90f3aa9862</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>986fe0af-1d58-44a1-8d1c-657af622aabe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'HOME'</defaultValue>
+      <description></description>
+      <id>a8ab0376-9db6-44f3-bce2-85c3e156b584</id>
+      <masked>false</masked>
+      <name>Header_Home</name>
+   </variable>
+   <variable>
+      <defaultValue>'Manage Views'</defaultValue>
+      <description></description>
+      <id>b0db8c64-d04d-43c6-ae11-acbf9ddfa8ba</id>
+      <masked>false</masked>
+      <name>ManageViews</name>
+   </variable>
+   <variable>
+      <defaultValue>'Georgia'</defaultValue>
+      <description></description>
+      <id>b40c08dd-d2bb-4062-af96-2a90f3aa9862</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Load Map'</defaultValue>
+      <description></description>
+      <id>986fe0af-1d58-44a1-8d1c-657af622aabe</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

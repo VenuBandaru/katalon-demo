@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1143_Verify Tax Image module on launching the application at left corner side navigator toggler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fda28304-676d-476f-858d-01539dfe95cb</testCaseGuid>
+</TestCaseEntity>

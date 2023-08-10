@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_2439_Request Copies Bills Notices, select all as available, but leave one or two as Not Available, Type in the date that its going to be available</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78551fd0-ed61-43c3-bc5c-46dc0610632e</testCaseGuid>
+   <variable>
+      <defaultValue>'Request Copies of Bills/Notices'</defaultValue>
+      <description></description>
+      <id>774ef49a-067f-4dfa-b420-38ce3e83a37c</id>
+      <masked>false</masked>
+      <name>ddlvalue</name>
+   </variable>
+</TestCaseEntity>

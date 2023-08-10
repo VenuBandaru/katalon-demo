@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3979_Verify Date and Textbox fields with invalid data while adding Assessor task w.r.t Data Task module</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8676f79b-a838-4ce8-8a54-94b8f9819ae3</testCaseGuid>
+   <variable>
+      <defaultValue>'00/00/2022'</defaultValue>
+      <description></description>
+      <id>3642811d-1776-40a9-8639-75d2f1fd222c</id>
+      <masked>false</masked>
+      <name>EstStartDate</name>
+   </variable>
+</TestCaseEntity>

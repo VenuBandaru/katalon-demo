@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4042_Verify clicking on ptxtech sideways logo it should redirect to Dashboard home page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e6b868b-887a-478f-a65f-956e270a7d34</testCaseGuid>
+</TestCaseEntity>

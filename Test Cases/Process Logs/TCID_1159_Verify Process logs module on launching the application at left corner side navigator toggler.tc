@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1159_Verify Process logs module on launching the application at left corner side navigator toggler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a52d7bb2-9e59-4ee5-a74b-b49f7fdbca33</testCaseGuid>
+</TestCaseEntity>

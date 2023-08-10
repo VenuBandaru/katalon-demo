@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1172_Verify the change pwd functionality by leaving the old pwd field blank and entering the valid new and confirm pwd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4260d3b2-5109-4b14-8bd1-30e639b072d4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3317_Verify new column Prior Check added to Load Map Stage Table section w.r.t Load Map page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67ff2e13-fdf5-4195-a746-1363704b453b</testCaseGuid>
+   <variable>
+      <defaultValue>'Texas'</defaultValue>
+      <description></description>
+      <id>daa0dec7-314b-4ac6-8699-3edc73e3486b</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dallas CAD'</defaultValue>
+      <description></description>
+      <id>b7f01af6-af34-4ae6-90c0-1590a90e1786</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

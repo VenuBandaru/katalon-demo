@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3298_Verify Auto-Verification Validation - Unique Check</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>724176db-391d-4229-8b49-dc9aae9658dd</testCaseGuid>
+   <variable>
+      <defaultValue>'Test Source Template'</defaultValue>
+      <description></description>
+      <id>c77a7c54-8b96-408d-82c4-a8af886acf5d</id>
+      <masked>false</masked>
+      <name>template</name>
+   </variable>
+   <variable>
+      <defaultValue>'Data Request - Email'</defaultValue>
+      <description></description>
+      <id>264093c4-b8ad-4247-b116-23832d5acb5f</id>
+      <masked>false</masked>
+      <name>Sourceorigin</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_1'</defaultValue>
+      <description></description>
+      <id>1af91c2d-9ac9-4d10-ba7e-456619df1a57</id>
+      <masked>false</masked>
+      <name>tablename1</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_2'</defaultValue>
+      <description></description>
+      <id>2e6bd09f-2e11-4ca9-a8a4-a0f975cd4cbe</id>
+      <masked>false</masked>
+      <name>tablename2</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4150_Verify on Clicking to Add Table, User can view popup window with heading Add Table, and Source Table grid section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4c63e52-9a71-4b86-9944-c26a1f8e6903</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3367_Verify State Maintenance by selecting any state w.r.t columns</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8296784-bd35-4a61-8926-7beb48628c80</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1285_Verify on Data Task List sub section Data Task by searching value for entity attribute and click on that entity value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4159071-a1e6-4fb9-a096-680dc938f8d4</testCaseGuid>
+</TestCaseEntity>

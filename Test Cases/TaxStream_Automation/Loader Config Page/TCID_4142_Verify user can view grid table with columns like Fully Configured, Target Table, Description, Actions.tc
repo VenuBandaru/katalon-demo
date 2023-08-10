@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_4142_Verify user can view grid table with columns like Fully Configured, Target Table, Description, Actions</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ef4da6a-b4c8-4b5c-9cf4-faa8848f7bfd</testCaseGuid>
+</TestCaseEntity>

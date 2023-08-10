@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3052_Verify need a new section added to the source page to allow for user interaction with validation errors</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4b80785-529d-45dc-9e8e-79587c7dc869</testCaseGuid>
+</TestCaseEntity>

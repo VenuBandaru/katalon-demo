@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3863_Verify Source List submodule, providing valid year and all optional fileds to null under applied filter section</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0362e844-e92a-4a39-a064-5cf9cdc77cf1</testCaseGuid>
+</TestCaseEntity>

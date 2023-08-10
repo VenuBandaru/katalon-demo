@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3814_Verify by editing Load Map Stg table parms table w.r.t loadmap</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cdb9a05-f02a-43ab-b5ab-2c3d0f001597</testCaseGuid>
+</TestCaseEntity>

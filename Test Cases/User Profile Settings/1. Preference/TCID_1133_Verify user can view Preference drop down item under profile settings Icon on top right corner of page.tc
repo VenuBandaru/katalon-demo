@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1133_Verify user can view Preference drop down item under profile settings Icon on top right corner of page</name>
+   <tag>User Profile Settings -> Preference</tag>
+   <comment></comment>
+   <testCaseGuid>474f10e3-27ca-4c96-9e29-2dda8417cc18</testCaseGuid>
+</TestCaseEntity>

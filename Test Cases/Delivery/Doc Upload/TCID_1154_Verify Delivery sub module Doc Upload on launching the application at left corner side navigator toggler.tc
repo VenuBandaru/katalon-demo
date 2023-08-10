@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_1154_Verify Delivery sub module Doc Upload on launching the application at left corner side navigator toggler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd570355-787e-4f4a-98f5-3a4de9a2a4cf</testCaseGuid>
+</TestCaseEntity>

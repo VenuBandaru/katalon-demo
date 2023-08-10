@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3815_Verify Adding and Deleting Stg Table Parms for Test Load Map</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da5aacf4-823d-430a-9a98-38795767f24d</testCaseGuid>
+</TestCaseEntity>

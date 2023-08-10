@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3244_Add the source template load map</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f466c1e1-a7cc-4906-ad2f-f8b58bc97406</testCaseGuid>
+   <variable>
+      <defaultValue>'Georgia'</defaultValue>
+      <description></description>
+      <id>a71a3cf2-537f-4cde-897b-df9edc832684</id>
+      <masked>false</masked>
+      <name>StateName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test Load Map'</defaultValue>
+      <description></description>
+      <id>81996687-5ad9-477c-bc7e-4c40f62ffa71</id>
+      <masked>false</masked>
+      <name>LoadMapName</name>
+   </variable>
+</TestCaseEntity>

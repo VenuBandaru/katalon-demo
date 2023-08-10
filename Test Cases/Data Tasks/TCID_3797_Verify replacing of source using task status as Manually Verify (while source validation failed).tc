@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3797_Verify replacing of source using task status as Manually Verify (while source validation failed)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4816ff1f-601d-4e93-9c96-9292b9377c75</testCaseGuid>
+   <variable>
+      <defaultValue>'Test Source Template'</defaultValue>
+      <description></description>
+      <id>469c9dfa-64b9-4a7d-a3a0-d00a1280587d</id>
+      <masked>false</masked>
+      <name>template</name>
+   </variable>
+   <variable>
+      <defaultValue>'Data Request - Email'</defaultValue>
+      <description></description>
+      <id>7e688f0b-caa9-47b6-a967-4c53390a9557</id>
+      <masked>false</masked>
+      <name>Sourceorigin</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_1'</defaultValue>
+      <description></description>
+      <id>00770c15-396b-49a0-8147-9ec50411c80f</id>
+      <masked>false</masked>
+      <name>tablename1</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_2'</defaultValue>
+      <description></description>
+      <id>7495c03c-3f5e-41b1-97ed-49f27e417954</id>
+      <masked>false</masked>
+      <name>tablename2</name>
+   </variable>
+   <variable>
+      <defaultValue>'164'</defaultValue>
+      <description></description>
+      <id>a48aeee0-d34d-4ed1-a6ab-f99a77640d3b</id>
+      <masked>false</masked>
+      <name>ManuallyVerify</name>
+   </variable>
+</TestCaseEntity>

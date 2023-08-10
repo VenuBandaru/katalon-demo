@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCID_3245_Verify Auto-Verification Validation - Required Table stg_ga_test_1 is missing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dba682ee-1a84-48ba-99a2-a3cce7f9208a</testCaseGuid>
+   <variable>
+      <defaultValue>'Test Source Template'</defaultValue>
+      <description></description>
+      <id>5075029c-d735-4a14-81b7-051f5758ddae</id>
+      <masked>false</masked>
+      <name>template</name>
+   </variable>
+   <variable>
+      <defaultValue>'Data Request - Email'</defaultValue>
+      <description></description>
+      <id>45a72ddb-5db3-4052-8742-2d91b142fdc2</id>
+      <masked>false</masked>
+      <name>Sourceorigin</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_1'</defaultValue>
+      <description></description>
+      <id>db181031-f4d8-4542-ba01-355740e1ef8a</id>
+      <masked>false</masked>
+      <name>tablename1</name>
+   </variable>
+   <variable>
+      <defaultValue>'stg_ga_test_2'</defaultValue>
+      <description></description>
+      <id>b87c9b2c-0c92-48e2-962f-149ae0ab8bcd</id>
+      <masked>false</masked>
+      <name>tablename2</name>
+   </variable>
+</TestCaseEntity>
